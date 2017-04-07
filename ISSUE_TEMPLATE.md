@@ -1,5 +1,7 @@
 ## Propuesta de Char.la
 
+FAQ -> https://github.com/quecharla/propuestas/tree/add-talk-tips#recomendaciones-para-tu-charla
+
 **Título:**
 
 **Descripción:**
